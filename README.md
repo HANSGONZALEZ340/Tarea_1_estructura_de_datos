@@ -1,4 +1,5 @@
 # Sistema de gestión de tickets de soporte técnico
+Realizado por Hans Gonzalez
 
 ## Descripción
 

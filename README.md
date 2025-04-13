@@ -13,7 +13,7 @@ Este sistema ha sido desarrollado en lenguaje C y puede ejecutarse fácilmente u
 - Tener instalado [Visual Studio Code](https://code.visualstudio.com/).
 - Instalar la extensión **C/C++** (Microsoft).
 - Tener instalado un compilador de C (como **gcc**). Si estás en Windows, se recomienda instalar [MinGW](https://www.mingw-w64.org/) o utilizar el entorno [WSL](https://learn.microsoft.com/en-us/windows/wsl/).
-- Ademas de tener github, para tener los archivos necesarios
+- Ademas de tener github, para tener los archivos necesarios, con el link para clonarlos en visual studio (https://github.com/HANSGONZALEZ340/Tarea_1_estructura_de_datos).
 
 ### Pasos para compilar y ejecutar:
 **Paso 1: Copiar el enlace de github y usarlo en visual studio para tener acceso a los datos**
